@@ -1,0 +1,138 @@
+{
+  "ilaclar": [
+    {
+      "id": "1",
+      "ilacAdi": "Parol",
+      "img": "https://sehirgazetesicomtr.teimg.com/crop/1280x720/sehirgazetesi-com-tr/uploads/2023/10/parol-nedir-ne-ise-yarar.png",
+      "fiyat": 40,
+      "stokMiktari": 50,
+      "kategori": "Ağrı Kesici"
+    },
+    {
+      "id": "2",
+      "ilacAdi": "Amoksisilin",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVdO79wmOyJFrBzcdqK5hK8pZ6eDz8WqMzw&s",
+      "fiyat": 60,
+      "stokMiktari": 30,
+      "kategori": "Antibiyotik"
+    },
+    {
+      "id": "3",
+      "ilacAdi": "C Vitamini",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0-4v02vE4QoGTpxb0R71vDo0sA7Xc66KNpQ&s",
+      "fiyat": 25,
+      "stokMiktari": 100,
+      "kategori": "Vitamin"
+    },
+    {
+      "id": "4",
+      "ilacAdi": "İbuprofen",
+      "img": "https://www.medicinedirect.co.uk/media/catalog/product/cache/8bf3693ed458c257f5171ffffa4e8921/2/2/220-4956.jpg",
+      "fiyat": 67.5,
+      "stokMiktari": 20,
+      "kategori": "Ağrı Kesici"
+    },
+    {
+      "id": "5",
+      "ilacAdi": "Kalsiyum",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJSXXA0jP1bK60XRwNh8wMVXjOaRZClLtrwQ&s",
+      "fiyat": 25.5,
+      "stokMiktari": 60,
+      "kategori": "Vitamin"
+    },
+    {
+      "id": "6",
+      "ilacAdi": "Seftriakson",
+      "img": "https://www.nobel.uz/cmsfiles/uzbekistan/products/sefabel-seftriakson-500-mg-1000-mg-1-ta-flakon-3.png?v=1",
+      "fiyat": 120,
+      "stokMiktari": 15,
+      "kategori": "Antibiyotik"
+    },
+    {
+      "id": "7",
+      "ilacAdi": "Parasetamol",
+      "img": "https://meinarztbedarf.com/cdn/shop/files/14190197_ba6b66d6-3e80-4ba3-91fc-0aa88339e085_700x700.jpg?v=1720029059",
+      "fiyat": 36.5,
+      "stokMiktari": 80,
+      "kategori": "Ağrı Kesici"
+    },
+    {
+      "id": "8",
+      "ilacAdi": "B12 Vitamini",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwbU85nK2xJ4LuGIa2pHNvsOC1EkcNrF37A&s",
+      "fiyat": 70,
+      "stokMiktari": 40,
+      "kategori": "Vitamin"
+    },
+    {
+      "id": "9",
+      "ilacAdi": "Aspirin",
+      "img": "https://meinarztbedarf.com/cdn/shop/files/10203595_bbd4d0b5-6903-4d31-a40e-96eecc699c3b_700x700.jpg?v=1720026293",
+      "fiyat": 15,
+      "stokMiktari": 150,
+      "kategori": "Ağrı Kesici"
+    },
+    {
+      "id": "10",
+      "ilacAdi": "Azitromisin",
+      "img": "https://m.media-amazon.com/images/I/61aCasrcdoL._AC_UF1000,1000_QL80_.jpg",
+      "fiyat": 85,
+      "stokMiktari": 25,
+      "kategori": "Antibiyotik"
+    },
+    {
+      "id": "11",
+      "ilacAdi": "D Vitamini",
+      "img": "https://vitaminler.mncdn.com/Assets/Supplementler/Thumbs/ocean_vitamin_d3_1000_iu_20_ml_47505.jpeg",
+      "fiyat": 40,
+      "stokMiktari": 70,
+      "kategori": "Vitamin"
+    },
+    {
+      "id": "12",
+      "ilacAdi": "Fluimucil",
+      "img": "https://cdn11.bigcommerce.com/s-dmb1ykvg7m/images/stencil/1280x1280/products/31770/15549/FLUIMUCIL_200MG_1__33880.1723702513.jpg?c=2",
+      "fiyat": 50,
+      "stokMiktari": 40,
+      "kategori": "Sıvı İlaç"
+    },
+    {
+      "id": "13",
+      "ilacAdi": "Metformin",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UV0fEQedBJR1P40uFlG3S2Z30ZAXljti1g&s",
+      "fiyat": 110,
+      "stokMiktari": 35,
+      "kategori": "Diyabet İlaçları"
+    },
+    {
+      "id": "14",
+      "ilacAdi": "Siropsin",
+      "img": "https://www.medikalakademi.com.tr/wp-content/uploads/2024/01/sipraktin-surup-3.jpg",
+      "fiyat": 45,
+      "stokMiktari": 60,
+      "kategori": "Sıvı İlaç"
+    },
+    {
+      "id": "15",
+      "ilacAdi": "Lisinopril",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpm77MUbifQZbI_28H6Eh2EisFZx1VnPOuw&s",
+      "fiyat": 55,
+      "stokMiktari": 50,
+      "kategori": "Kan Basıncı İlaçları"
+    },
+    {
+      "0": {
+        "id": "1",
+        "stokMiktari": 47
+      },
+      "id": "ecc8"
+    },
+    {
+      "0": {
+        "id": "1",
+        "stokMiktari": 46
+      },
+      "id": "2a38"
+    }
+  ]
+}
