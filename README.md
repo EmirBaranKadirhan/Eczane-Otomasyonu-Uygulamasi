@@ -4,17 +4,17 @@ Bu proje, bir eczane otomasyon sistemi olup Vue.js kullanılarak geliştirilmiş
 
  ## ✔️ Özellikler
 
- Kullanıcı Girişi: Kullanıcı adı ve şifre ile giriş yapılır.
+ ☑ Kullanıcı Girişi: Kullanıcı adı ve şifre ile giriş yapılır.
 
- İlaç Görüntüleme: Vuetify DataTables veya benzeri bileşenler kullanılarak ilaçların listesi görüntülenebilir.
+ ☑ İlaç Görüntüleme: Vuetify DataTables veya benzeri bileşenler kullanılarak ilaçların listesi görüntülenebilir.
 
- Satış İşlemleri: Satış gerçekleştirildiğinde ilgili ilacın stoğu otomatik olarak güncellenir.
+ ☑ Satış İşlemleri: Satış gerçekleştirildiğinde ilgili ilacın stoğu otomatik olarak güncellenir.
 
- Stok Yönetimi: İlaç verileri yerel bir veri tabanında saklanır.
+ ☑ Stok Yönetimi: İlaç verileri yerel bir veri tabanında saklanır.
 
- Vuetify Entegrasyonu: Şık ve kullanışlı bir kullanıcı arayüzü sunar.
+ ☑ Vuetify Entegrasyonu: Şık ve kullanışlı bir kullanıcı arayüzü sunar.
 
- Options API: Vue.js Options API kullanılarak geliştirilmiştir.
+ ☑ Options API: Vue.js Options API kullanılarak geliştirilmiştir.
 
 
 ## ✔️ Kullanım
