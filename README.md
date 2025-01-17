@@ -2,7 +2,7 @@
 
 Bu proje, bir eczane otomasyon sistemi olup Vue.js kullanılarak geliştirilmiştir. Projede, Vuetify kullanılarak modern bir kullanıcı arayüzü sağlanmıştır. Amaç, ilaç stok takibi ve satış işlemlerini kolaylaştırmaktır.
 
-✔️ Özellikler
+✔️ # Özellikler
 
 Kullanıcı Girişi: Kullanıcı adı ve şifre ile giriş yapılır.
 
