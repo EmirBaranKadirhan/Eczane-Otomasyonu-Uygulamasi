@@ -19,7 +19,7 @@ Bu proje, bir eczane otomasyon sistemi olup Vue.js kullanılarak geliştirilmiş
 
 ## ⚙️ Kullanım
 
-1. Uygulamayı başlattıktan sonra giriş sayfası görünecektir. Kullanıcı adı ve şifre bilgilerini girerek giriş yapabilirsiniz.
+1. Uygulamayı başlattıktan sonra giriş sayfası görünecektir. Kullanıcı adı ve şifre bilgilerini girerek giriş yapabilirsiniz.  Kullanıcı Adı: admin | Sifre: admin123
 
 2. Giriş yaptıktan sonra ilaçların listelendiği ana ekrana yönlendirilirsiniz.
 
@@ -44,7 +44,17 @@ Katkılar memnuniyetle kabul edilir! Lütfen bir konu açın veya pull request g
 ## 📸 Uygulama İçi Görseller
 
 ### ☑ Giriş Sayfası
+![Giriş Sayfası](src/assets/appImg/uygulamaIciResim1.png)
 
 ### ☑ İlaç Listesi
+![Giriş Sayfası](src/assets/appImg/uygulamaIciResim2.png)
+
+![Giriş Sayfası](src/assets/appImg/uygulamaIciResim3.png)
+
+### ☑ İlaç Ekleme
+![Giriş Sayfası](src/assets/appImg/uygulamaIciResim4.png)
 
 ### ☑ Satış Sayfası
+![Giriş Sayfası](src/assets/appImg/uygulamaIciResim5.png)
+
+![Giriş Sayfası](src/assets/appImg/uygulamaIciResim6.png)
