@@ -1,29 +1,54 @@
-# eczane-otomasyon-projesi
+# Eczane Otomasyonu
 
-This template should help get you started developing with Vue 3 in Vite.
+Bu proje, bir eczane otomasyon sistemi olup Vue.js kullanılarak geliştirilmiştir. Projede, Vuetify kullanılarak modern bir kullanıcı arayüzü sağlanmıştır. Amaç, ilaç stok takibi ve satış işlemlerini kolaylaştırmaktır.
 
-## Recommended IDE Setup
+✔️ Özellikler
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Kullanıcı Girişi: Kullanıcı adı ve şifre ile giriş yapılır.
 
-## Customize configuration
+İlaç Görüntüleme: Vuetify DataTables veya benzeri bileşenler kullanılarak ilaçların listesi görüntülenebilir.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Satış İşlemleri: Satış gerçekleştirildiğinde ilgili ilacın stoğu otomatik olarak güncellenir.
 
-## Project Setup
+Stok Yönetimi: İlaç verileri yerel bir veri tabanında saklanır.
 
-```sh
+Vuetify Entegrasyonu: Şık ve kullanışlı bir kullanıcı arayüzü sunar.
+
+Options API: Vue.js Options API kullanılarak geliştirilmiştir.
+
+✔️ Kurulum
+
+Bu depoyu klonlayın:
+
+git clone https://github.com/kullaniciadi/eczane-otomasyonu.git
+cd eczane-otomasyonu
+
+Bağımlılıkları yükleyin:
+
 npm install
-```
 
-### Compile and Hot-Reload for Development
+Projeyi çalıştırın:
 
-```sh
-npm run dev
-```
+npm run serve
 
-### Compile and Minify for Production
+✔️ Kullanım
 
-```sh
-npm run build
-```
+Uygulamayı başlattıktan sonra giriş sayfası görünecektir. Kullanıcı adı ve şifre bilgilerini girerek giriş yapabilirsiniz.
+
+Giriş yaptıktan sonra ilaçların listelendiği ana ekrana yönlendirilirsiniz.
+
+Satış sayfasında bir ilaç seçerek satış işlemini gerçekleştirebilir ve stoğun otomatik olarak güncellenmesini sağlayabilirsiniz.
+
+✔️ Teknolojiler
+
+Vue.js: Ana framework
+
+Vuetify: UI bileşen kütüphanesi
+
+HTML5, CSS3, JavaScript: Ön yüz geliştirme
+
+Local Data Storage: İlaç verilerinin saklanması
+
+✔️ Katkıda Bulunma
+
+Katkılar memnuniyetle kabul edilir! Lütfen bir konu açın veya pull request gönderin.
