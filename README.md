@@ -17,24 +17,34 @@ Bu proje, bir eczane otomasyon sistemi olup Vue.js kullanılarak geliştirilmiş
  ☑ Options API: Vue.js Options API kullanılarak geliştirilmiştir.
 
 
-## ✔️ Kullanım
+## ⚙️ Kullanım
 
-Uygulamayı başlattıktan sonra giriş sayfası görünecektir. Kullanıcı adı ve şifre bilgilerini girerek giriş yapabilirsiniz.
+1. Uygulamayı başlattıktan sonra giriş sayfası görünecektir. Kullanıcı adı ve şifre bilgilerini girerek giriş yapabilirsiniz.
 
-Giriş yaptıktan sonra ilaçların listelendiği ana ekrana yönlendirilirsiniz.
+2. Giriş yaptıktan sonra ilaçların listelendiği ana ekrana yönlendirilirsiniz.
 
-Satış sayfasında bir ilaç seçerek satış işlemini gerçekleştirebilir ve stoğun otomatik olarak güncellenmesini sağlayabilirsiniz.
+3. Satış sayfasında bir ilaç seçerek satış işlemini gerçekleştirebilir ve stoğun otomatik olarak güncellenmesini sağlayabilirsiniz.
 
-## ✔️ Teknolojiler
 
-Vue.js: Ana framework
+## 🔧 Teknolojiler
 
-Vuetify: UI bileşen kütüphanesi
+☑ Vue.js: Ana framework
 
-HTML5, CSS3, JavaScript: Ön yüz geliştirme
+☑ Vuetify: UI bileşen kütüphanesi
 
-Local Data Storage: İlaç verilerinin saklanması
+☑ HTML5, CSS3, JavaScript: Ön yüz geliştirme
 
-## ✔️ Katkıda Bulunma
+☑ Local Data Storage: İlaç verilerinin saklanması
+
+
+## 📊 Katkıda Bulunma
 
 Katkılar memnuniyetle kabul edilir! Lütfen bir konu açın veya pull request gönderin.
+
+## 📸 Uygulama İçi Görseller
+
+### ☑ Giriş Sayfası
+
+### ☑ İlaç Listesi
+
+### ☑ Satış Sayfası
