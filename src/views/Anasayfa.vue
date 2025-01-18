@@ -35,8 +35,8 @@ export default {
     data() {
         return {
             adminInfo:{
-                firstname:"philipmorris00",
-                password:"ayvalik1934"
+                firstname:"admin",
+                password:"admin123"
             },
             userLogin:{
                 firstname:"",

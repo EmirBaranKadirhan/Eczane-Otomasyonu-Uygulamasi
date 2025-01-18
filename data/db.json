@@ -119,20 +119,6 @@
       "fiyat": 55,
       "stokMiktari": 50,
       "kategori": "Kan Basıncı İlaçları"
-    },
-    {
-      "0": {
-        "id": "1",
-        "stokMiktari": 47
-      },
-      "id": "ecc8"
-    },
-    {
-      "0": {
-        "id": "1",
-        "stokMiktari": 46
-      },
-      "id": "2a38"
     }
   ]
 }

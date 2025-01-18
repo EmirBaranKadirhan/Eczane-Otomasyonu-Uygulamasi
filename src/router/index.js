@@ -39,12 +39,12 @@ const router = createRouter({
         props:true,
         component: () => import('../views/IlaclarAlternatif.vue'),
       },
-      {
-        path: '/bilanco',
-        name: 'bilanco',
-        props:true,
-        component: () => import('../views/Bilanco.vue'),
-      },
+      // {
+      //   path: '/bilanco',
+      //   name: 'bilanco',
+      //   props:true,
+      //   component: () => import('../views/Bilanco.vue'),
+      // },
 
     
   ],
