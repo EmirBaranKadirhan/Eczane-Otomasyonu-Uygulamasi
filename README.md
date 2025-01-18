@@ -57,4 +57,4 @@ Katkılar memnuniyetle kabul edilir! Lütfen bir konu açın veya pull request g
 ### ☑ Satış Sayfası
 ![Giriş Sayfası](src/assets/appImg/uygulamaIciResim5.PNG)
 
-![Giriş Sayfası](src/assets/appImg/uygulamaIciResim6.png)
+![Giriş Sayfası](src/assets/appImg/uygulamaIciResim6.PNG)
