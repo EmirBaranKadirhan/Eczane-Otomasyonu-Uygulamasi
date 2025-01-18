@@ -44,10 +44,10 @@ Katkılar memnuniyetle kabul edilir! Lütfen bir konu açın veya pull request g
 ## 📸 Uygulama İçi Görseller
 
 ### ☑ Giriş Sayfası
-![Giriş Sayfası](src/assets/appImg/uygulamaIciResim1.png)
+![Giriş Sayfası](src/assets/appImg/uygulamaIciResim1.PNG)
 
 ### ☑ İlaç Listesi
-![Giriş Sayfası](src/assets/appImg/uygulamaIciResim2.png)
+![Giriş Sayfası](.src/assets/appImg/uygulamaIciResim2.png)
 
 ![Giriş Sayfası](src/assets/appImg/uygulamaIciResim3.png)
 
